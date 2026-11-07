@@ -1,2 +1,0 @@
-# Pallet
-color selection applicaton
